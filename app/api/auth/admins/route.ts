@@ -1,0 +1,1 @@
+export { GET } from '@/src/features/auth/api/admins/route';

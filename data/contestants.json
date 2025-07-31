@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Star",
+    "image": "/images.jpg",
+    "votes": 0,
+    "type": "Opera Singer"
+  },
+  {
+    "id": 2,
+    "name": "Bob Blaze",
+    "image": "/images.jpg",
+    "votes": 4,
+    "type": "Danger Act"
+  },
+  {
+    "id": 3,
+    "name": "Cathy Wave",
+    "image": "/images.jpg",
+    "votes": 2,
+    "type": "Dance Group"
+  },
+  {
+    "id": 4,
+    "name": "Sarah Johnson",
+    "image": "/images.jpg",
+    "votes": 0,
+    "type": "Opera Singer"
+  },
+  {
+    "id": 5,
+    "name": "The Magic Twins",
+    "image": "/images.jpg",
+    "votes": 0,
+    "type": "Magicians"
+  },
+  {
+    "id": 6,
+    "name": "Urban Dance Crew",
+    "image": "/images.jpg",
+    "votes": 0,
+    "type": "Dance Group"
+  },
+  {
+    "id": 7,
+    "name": "Tommy Rivers",
+    "image": "/images.jpg",
+    "votes": 0,
+    "type": "Stand-up Comedian"
+  },
+  {
+    "id": 8,
+    "name": "Emily Chen",
+    "image": "/images.jpg",
+    "votes": 0,
+    "type": "Violinist"
+  },
+  {
+    "id": 9,
+    "name": "Fire Breathers",
+    "image": "/images.jpg",
+    "votes": 0,
+    "type": "Danger Act"
+  }
+]

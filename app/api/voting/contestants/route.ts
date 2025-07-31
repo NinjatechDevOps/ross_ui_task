@@ -1,0 +1,1 @@
+export { GET, POST } from '@/src/features/voting/api/contestants/route';
